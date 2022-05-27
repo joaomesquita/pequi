@@ -59,8 +59,15 @@
                 
                 <div class="row row-cols-2 row-cols-md-3 g-3 justify-content-center">
                     <?php for ($i = 0; $i < 3; $i++) { ?>
-                    <div class="col">
-                        <img src="img/estrutura.jpg" alt="" class="img-fluid rounded">
+                    <div class="col text-center">
+                        <a data-fancybox="demo" href="img/estrutura.jpg">
+                            <div class="card border-0">
+                                <img src="img/estrutura.jpg" class="img-fluid rounded" alt="...">
+                                <div class="card-img-overlay">
+                                    <p class="font-16 color-light mb-0">Piscina</p>
+                                </div>
+                            </div>
+                        </a>
                     </div>
                     <?php } ?>
                 </div>

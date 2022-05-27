@@ -71,7 +71,9 @@
         <div class="row row-cols-1 row-cols-md-4 justify-content-center g-4 my-5">
             <div class="col">
                 <div class="card border-0">
-                    <img src="img/quarto.jpg" class="card-img-top" alt="...">
+                    <a href="acomodacao.php">
+                        <img src="img/quarto.jpg" class="card-img-top" alt="...">
+                    </a>
                     <div class="card-body text-center">
                         <p class="font-25 color-primary text-uppercase fw-bold">Duplo</p>
                         <div class="d-flex flex-row justify-content-between">
@@ -79,13 +81,15 @@
                             <p class="font-13"><img src="img/banheiro.svg" class="img-fluid me-2"/>1 Banheiro</p>
                             <p class="font-13"><img src="img/wifi.svg" class="img-fluid me-2"/>Wi-Fi</p>
                         </div>
-                        <a href="#" class="font-14 color-primary">Veja mais</a>
+                        <a href="acomodacao.php" class="font-14 color-primary">Veja mais</a>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card border-0">
-                    <img src="img/quarto.jpg" class="card-img-top" alt="...">
+                    <a href="acomodacao.php">
+                        <img src="img/quarto.jpg" class="card-img-top" alt="...">
+                    </a>
                     <div class="card-body text-center">
                         <p class="font-25 color-primary text-uppercase fw-bold">Triplo</p>
                         <div class="d-flex flex-row justify-content-between">
@@ -93,13 +97,15 @@
                             <p class="font-13"><img src="img/banheiro.svg" class="img-fluid me-2"/>1 Banheiro</p>
                             <p class="font-13"><img src="img/wifi.svg" class="img-fluid me-2"/>Wi-Fi</p>
                         </div>
-                        <a href="#" class="font-14 color-primary">Veja mais</a>
+                        <a href="acomodacao.php" class="font-14 color-primary">Veja mais</a>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card border-0">
-                    <img src="img/quarto.jpg" class="card-img-top" alt="...">
+                    <a href="acomodacao.php">
+                        <img src="img/quarto.jpg" class="card-img-top" alt="...">
+                    </a>
                     <div class="card-body text-center">
                         <p class="font-25 color-primary text-uppercase fw-bold">Quadruplo</p>
                         <div class="d-flex flex-row justify-content-between">
@@ -107,13 +113,15 @@
                             <p class="font-13"><img src="img/banheiro.svg" class="img-fluid me-2"/>1 Banheiro</p>
                             <p class="font-13"><img src="img/wifi.svg" class="img-fluid me-2"/>Wi-Fi</p>
                         </div>
-                        <a href="#" class="font-14 color-primary">Veja mais</a>
+                        <a href="acomodacao.php" class="font-14 color-primary">Veja mais</a>
                     </div>
                 </div>
             </div>
             <div class="col">
                 <div class="card border-0">
-                    <img src="img/quarto.jpg" class="card-img-top" alt="...">
+                    <a href="acomodacao.php">
+                        <img src="img/quarto.jpg" class="card-img-top" alt="...">
+                    </a>
                     <div class="card-body text-center">
                         <p class="font-25 color-primary text-uppercase fw-bold">Quintuplo</p>
                         <div class="d-flex flex-row justify-content-between">
@@ -121,7 +129,7 @@
                             <p class="font-13"><img src="img/banheiro.svg" class="img-fluid me-2"/>1 Banheiro</p>
                             <p class="font-13"><img src="img/wifi.svg" class="img-fluid me-2"/>Wi-Fi</p>
                         </div>
-                        <a href="#" class="font-14 color-primary">Veja mais</a>
+                        <a href="acomodacao.php" class="font-14 color-primary">Veja mais</a>
                     </div>
                 </div>
             </div>

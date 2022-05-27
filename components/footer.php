@@ -27,13 +27,13 @@
     </div>
     <div class="footer bg-primary pt-5 pb-3">
         <div class="container mb-5">
-            <div class="row justify-content-center">
+            <div class="row">
                 <div class="col-lg-5">
                     <img src="img/logo-footer.svg" alt="" class="img-fluid mb-4" width="180">
                     <p class="font-16 color-light text-semibold mb-2">Ideal para o seu Descanso</p>
                     <p class="font-14 color-light w-75 mb-0">Localizada no Pantanal do rio Aquidauana a 180 Km de Campo Grande, em uma autêntica fazenda pantaneira que preserva e mantém a cultura local, a Pousada Pequi proporciona a seus hóspedes um atendimento familiar com aconchegantes acomodações e deliciosa comida típica.</p>
                 </div>
-                <div class="col-lg-2 my-5 my-lg-0">
+                <div class="col-lg-3 my-5 my-lg-0">
                     <ul class="nav flex-column">
                         <p class="font-14 color-secondary text-uppercase fw-bold mb-2">Navegue</p>
                         <li class="nav-item">

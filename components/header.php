@@ -45,3 +45,6 @@
             </div>
         </div>
     </nav>
+    <a style="position: fixed;right: 20px;bottom: 20px;z-index: 9999;width: 60px;height: 60px;" target="_blank" class="whatsapp_float" href="#">
+        <img src="img/whatsapp.svg">
+    </a>
